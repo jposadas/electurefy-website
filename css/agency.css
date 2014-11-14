@@ -660,6 +660,20 @@ aside.clients img {
     margin: 50px auto;
 }
 
+section#teamphoto {
+    background-color: #222;
+    background-image: url(../img/teamphoto1.jpg);
+    background-size: 100% auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+section#video {
+    padding: 100px 0;
+    background-color: #222;
+}
+
 section#contact {
     background-color: #222;
     background-image: url(../img/map-image.png);
