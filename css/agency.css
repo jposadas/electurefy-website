@@ -183,7 +183,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #2B59A2;
+    color: #95ACD0;
 }
 
 .navbar-default .navbar-collapse {
@@ -215,7 +215,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #2B59A2;
+    color: #95ACD0;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -670,7 +670,7 @@ section#teamphoto {
 
 
 section#video {
-    padding: 75 px 0;
+    padding: 190px 0 120px 0;
     background-color: #222;
 }
 
@@ -747,7 +747,7 @@ footer {
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Roboto Slab', serif;
     line-height: 40px;
 }
 
@@ -756,6 +756,8 @@ footer ul.quicklinks {
     text-transform: uppercase;
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    float: right;
     line-height: 40px;
 }
 
